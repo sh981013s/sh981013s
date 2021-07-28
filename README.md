@@ -11,7 +11,8 @@ Currently focusing on JS.<br>
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 
-<table margin-left="20%"><tr ><td valign="top" width="33%">
+<div align="center">
+<table><tr ><td valign="top" width="33%">
 
 <h3 align="center">Frontend</h3>
 <div align="center">  
@@ -42,7 +43,7 @@ Currently focusing on JS.<br>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table></div>
 
 <br/>  
 
