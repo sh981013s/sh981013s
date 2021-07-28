@@ -11,6 +11,7 @@ Currently focusing on JS.<br>
 <h3 align="center">📚 Technology Stack 📚</h3>
 
 <table><tr><td valign="top" width="33%">
+  
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
