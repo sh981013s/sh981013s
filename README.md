@@ -4,6 +4,8 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 I'm SeungHwan Lee. 🌱 <br>
+Born in 1998, EngLit major at Kookmin Univ. 😎 <br>
+Currently focusing on JS.<br>
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
