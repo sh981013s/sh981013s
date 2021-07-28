@@ -22,3 +22,7 @@ I'm SeungHwan Lee. 🌱 <br>
 <p align="center">
   <a href="https://velog.io/@sh981013s"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sh981013s"/></a>&nbsp
   <a href="mailto:sh981013s@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sh981013s@gmail.com"/></a>
+
+ </p>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
