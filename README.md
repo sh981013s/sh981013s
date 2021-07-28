@@ -67,4 +67,4 @@ Currently focusing on JS.<br>
   
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
+![waving](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
