@@ -1,4 +1,3 @@
-// ![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header)
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=이승환&fontAlign=70&fontAlignY=35&color=gradient)
 
