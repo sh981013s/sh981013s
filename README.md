@@ -1,15 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=SeungHwan%20Lee);&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 
-### Hi there 👋, my name is SeungHwan Lee
+<h3 align="center"> 👋 Hi there 👋 </h3>
+<p align="center">
+I'm SeungHwan Lee. 🌱 <br>
+</p>
+<h3 align="center">📚 Technology Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-red"/>&nbsp
+  <img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Django-blue"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
+</p>
 
-Skills:  HTML / CSS / JS / Django 
+<h3 align="center">•••</h3>
 
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sh981013s)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sh981013s/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/sh891013s)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sh981013s&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/sh981013s)  
+<p align="center">
+  <a href="https://velog.io/@sh981013s"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sh981013s"/></a>&nbsp
+  <a href="mailto:sh981013s@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sh981013s@gmail.com"/></a>
