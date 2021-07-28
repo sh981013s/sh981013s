@@ -7,12 +7,13 @@ I'm SeungHwan Lee. 🌱 <br>
 Born in 1998, EngLit major at Kookmin Univ. 😎 <br>
 Currently focusing on JS.<br>
 </p>
+<br/>
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 
 <table><tr><td valign="top" width="33%">
-  
-### Frontend  
+
+<h3 align="center">Frontend</h3>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -25,7 +26,7 @@ Currently focusing on JS.<br>
 
 
 
-### Backend  
+<h3 align="center">BakcEnd</h3>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
@@ -35,7 +36,7 @@ Currently focusing on JS.<br>
 </td><td valign="top" width="33%">
 
 
-### DevOps  
+<h3 align="center">DevOps</h3>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
