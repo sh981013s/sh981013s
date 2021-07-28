@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is SeungHwan Lee
 
-Skills:  HTML / CSS / Django 
+Skills:  HTML / CSS / JS / Django 
 
 - 🔭 I’m currently working on this page. 
 
