@@ -11,7 +11,7 @@ Currently focusing on JS.<br>
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 
-<table><tr><td valign="top" width="33%">
+<table margin-left="20%"><tr ><td valign="top" width="33%">
 
 <h3 align="center">Frontend</h3>
 <div align="center">  
