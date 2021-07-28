@@ -59,9 +59,8 @@ Currently focusing on JS.<br>
  
 <br/>
 
-<h3 align="center">Github Stats </h3>
-<div align="center">
+<h3 align="center">Github Stats </h3> <br/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh981013s)](https://github.com/anuraghazra/github-readme-stats)
-</div> 
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
