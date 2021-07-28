@@ -59,7 +59,7 @@ Currently focusing on JS.<br>
  
 <br/>
 
-## Github Stats  
+<h3 align="center">Github Stats </h3>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sh981013s&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
