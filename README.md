@@ -37,7 +37,7 @@ Currently focusing on JS.<br>
 </td><td valign="top" width="33%">
 
 
-<h3 align="center">DevOps</h3>
+<h3 align="center">Tools</h3>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
