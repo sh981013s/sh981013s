@@ -62,7 +62,7 @@ Currently focusing on JS.<br>
 <h3 align="center">Github Stats </h3> <br/>
 <div align="center">
 
-[![Anurag's GitHub stats]github-readme-stats.vercel.app/api?username={sh981013s}&show_icons=true&theme=dark
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sh981013s&show_icons=true&theme=dark)
   
 </div>
 
