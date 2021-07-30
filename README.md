@@ -10,7 +10,7 @@ Currently focusing on JS.<br>
 </p>
 <div align="center">
 
-![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8)
+![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9)
 
 </div>
 <br/>
