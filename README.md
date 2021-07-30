@@ -8,9 +8,11 @@ I'm SeungHwan Lee. 🌱 <br>
 Born in 1998, EngLit major at Kookmin Univ. 😎 <br>
 Currently focusing on JS.<br>
 </p>
+<div align="center">
 
 ![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8)
 
+</div>
 <br/>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
