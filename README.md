@@ -8,6 +8,7 @@ I'm SeungHwan Lee. 🌱 <br>
 Born in 1998, EngLit major at Kookmin Univ. 😎 <br>
 Currently focusing on JS.<br>
 </p>
+![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8)
 <br/>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -31,9 +32,6 @@ Currently focusing on JS.<br>
 <p align="center">
   <a href="https://velog.io/@sh981013s"><img src="https://img.shields.io/badge/%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sh981013s"/></a>&nbsp
   <a href="mailto:sh981013s@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sh981013s@gmail.com"/></a>
-  <a href="https://instagram.com/hwani_981013" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a> 
  </p>
  
 <br/>
