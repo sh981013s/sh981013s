@@ -1,6 +1,7 @@
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=이승환&fontAlign=70&fontAlignY=35&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=이승환&color=gradient)
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MinJeongKim&fontSize=70&animation=twinkling)
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
