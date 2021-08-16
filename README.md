@@ -19,7 +19,7 @@ Currently focusing on JS.<br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
-<div align="center">
+<p align="center">
   
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -33,7 +33,7 @@ Currently focusing on JS.<br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-</div>
+</p>
 
 <br/>  
 
