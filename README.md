@@ -10,7 +10,6 @@ Currently focusing on JS.<br>
 </p>
 <div align="center">
 
-![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9)
 <a href="https://solved.ac/sh981013s"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sh981013s" /> </a>
 
   
