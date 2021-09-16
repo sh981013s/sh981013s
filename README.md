@@ -1,8 +1,14 @@
 
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&color=7BF780&size=70&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B+My+name+is+Jamie)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&color=7BF780&size=70&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B+My+name+is+Jason)](https://git.io/typing-svg)
 
   
+</div>
+
+
+
+
 
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
@@ -13,7 +19,6 @@ Currently focusing on JS.<br>
 </p>
 <div align="center">
 
-<a href="https://solved.ac/sh981013s"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sh981013s" /> </a>
 
   
 </div>
@@ -49,5 +54,12 @@ Currently focusing on JS.<br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sh981013s&show_icons=true&theme=dark)
   
+</div>
+
+<div align="center">
+
+
+![Snake_SVG](https://github.com/sh981013s/sh981013s/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
