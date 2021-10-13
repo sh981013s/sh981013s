@@ -12,7 +12,6 @@ Born in 1998, EngLit major at Kookmin Univ. 😎 <br>
 Currently focusing on JS.<br>
 </p>
 <div align="center">
-  
 </div>
 <br/>
 
