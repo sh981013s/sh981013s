@@ -17,7 +17,6 @@ Currently focusing on JS.<br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
-
 <p align="center">
     <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code"/>&nbsp 
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
