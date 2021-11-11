@@ -26,6 +26,7 @@ Currently focusing on JS.<br>
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>&nbsp
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>&nbsp
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat"/>&nbsp
   </p>
  
 <br/>  
