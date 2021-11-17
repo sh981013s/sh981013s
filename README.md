@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&color=7BF780&size=70&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B+My+name+is+Jason)](https://git.io/typing-svg)
   
 </div>
-
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 I'm SeungHwan Lee. 🌱 <br>
