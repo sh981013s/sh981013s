@@ -25,6 +25,7 @@ Currently focusing on JS.<br>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>&nbsp
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>&nbsp
+  
   </p>
  
 <br/>  
