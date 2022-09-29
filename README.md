@@ -9,6 +9,14 @@
 I'm SeungHwan Lee. 🌱 <br>
 Born in 1998, EngLit major at Kookmin Univ. 😎 <br>
 Currently focusing on JS.<br>
+  
+<div align="center">
+  
+  ![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sh981013s)](https://solved.ac/sh981013s)
+
+</div>
+
 </p>
 <div align="center">
 </div>
@@ -22,9 +30,6 @@ Currently focusing on JS.<br>
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat"/>&nbsp
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp 
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>&nbsp
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>&nbsp
-  
   </p>
  
 <br/>  
