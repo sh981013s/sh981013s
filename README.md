@@ -11,7 +11,7 @@ Born in 1998, EngLit major at Kookmin Univ. 😎 <br>
 Currently focusing on JS.<br>
 
 <div align="center">
-  <a href="https://lively-texture-d01.notion.site/70f80e3a51f242a79403ed85c6738260" target="_blank">💁🏻‍♂️ Portfolio</a><br/>
+  <a href="https://lively-texture-d01.notion.site/70f80e3a51f242a79403ed85c6738260" target="_blank">💁🏻‍♂️ Portfolio</a><br/><br/>
 </div>
 
 <div align="center">
