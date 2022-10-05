@@ -9,8 +9,13 @@
 I'm SeungHwan Lee. 🌱 <br>
 Born in 1998, EngLit major at Kookmin Univ. 😎 <br>
 Currently focusing on JS.<br>
-  
+
 <div align="center">
+  <a href="https://lively-texture-d01.notion.site/70f80e3a51f242a79403ed85c6738260" target="_blank">💁🏻‍♂️ Portfolio</a><br/>
+</div>
+
+<div align="center">
+
   <a href="https://www.rocketpunch.com/@sh981013s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://hwani.dev/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
   
