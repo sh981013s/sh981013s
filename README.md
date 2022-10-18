@@ -20,7 +20,7 @@ Currently focusing on JS.<br>
     <a href="https://hwani.dev/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
   
   ![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9)
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sh981013s)](https://solved.ac/sh981013s)
+
 
 </div>
 
