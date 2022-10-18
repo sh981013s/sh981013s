@@ -52,17 +52,4 @@ Currently focusing on JS.<br>
  </p>
 <br/>
 
-<h3 align="center">Github Stats </h3> <br/>
-<div align="center">
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sh981013s&show_icons=true&theme=dark)
-  
-</div>
-
-<div align="center">
-
-
-![Snake_SVG](https://github.com/sh981013s/sh981013s/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
