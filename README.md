@@ -39,7 +39,7 @@ Currently focusing on JS.<br>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=react-query&logoColor=white"/>&nbsp
+  <!-- <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=react-query&logoColor=white"/>&nbsp -->
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp 
   </p>
