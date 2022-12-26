@@ -20,7 +20,6 @@ Currently focusing on JS.<br>
   <a href="https://www.rocketpunch.com/@sh981013s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://hwani.dev/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
   
-  ![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9)
 
 
 </div>
