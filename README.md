@@ -37,11 +37,4 @@ I'm SeungHwan(Jason) Lee. 🌱 <br>
  
 <br/>  
 
-<h3 align="center">More about me  😁</h3>
-
-<p align="center">
-  <a href="mailto:sh981013s@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sh981013s@gmail.com"/></a>
- </p>
-<br/>
-
 
