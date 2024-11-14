@@ -5,20 +5,14 @@
 </div>
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-I'm SeungHwan Lee. 🌱 <br>
-Currently focusing on JS.<br>
-  
-<!-- <div align="center">
-  <a href="https://lively-texture-d01.notion.site/70f80e3a51f242a79403ed85c6738260" target="_blank">💁🏻‍♂️ Portfolio</a><br/><br/>
-</div> -->
+I'm SeungHwan(Jason) Lee. 🌱 <br>
+
 
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/%EC%8A%B9%ED%99%98-jason-lee-%EC%9D%B4-40a749213](https://www.linkedin.com/in/seunghwan-jason-lee-0b9140318/)/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    
-  
-
-
+  <a href="https://www.linkedin.com/in/seunghwan-jason-lee-0b9140318/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 </p>
