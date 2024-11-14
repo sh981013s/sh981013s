@@ -14,8 +14,8 @@ Currently focusing on JS.<br>
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/%EC%8A%B9%ED%99%98-jason-lee-%EC%9D%B4-40a749213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://hwani.dev/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/%EC%8A%B9%ED%99%98-jason-lee-%EC%9D%B4-40a749213](https://www.linkedin.com/in/seunghwan-jason-lee-0b9140318/)/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    
   
 
 
